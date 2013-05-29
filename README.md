@@ -1,6 +1,6 @@
 # AssetCompileTest
 
-A test app to verify the compile behavior of Rails/Sprockets. Based on the question ['Rails 3.2: How to override single files from gem assets for assets:precompile?' at StackOverflow](http://stackoverflow.com/questions/16435428/rails-3-2-how-to-override-single-files-from-gem-assets-for-assetsprecompile/16789937?iemail=1&noredirect=1#16789937).
+A test app to verify the compile behavior of Rails/Sprockets. Based on the question ['Rails 3.2: How to override single files from gem assets for assets:precompile?' at StackOverflow](http://stackoverflow.com/questions/16435428/rails-3-2-how-to-override-single-files-from-gem-assets-for-assetsprecompile).
 
 ## Instructions
 
